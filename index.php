@@ -77,7 +77,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <a href="https://viniciuspadilha.netlify.app/" target="_blank">viniciuspadilha.netlify.app</a></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Github:</strong> <a href="https://github.com/viniciusgfpadilha" target="_blank">github.com/viniciusgfpadilha</a></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Github:</strong> <a href="https://github.com/viniciusgpadilha" target="_blank">github.com/viniciusgpadilha</a></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Nível:</strong> <span>Junior</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>vinicius.gf.padilha@gmail.com</span></li>
                   
@@ -371,7 +371,7 @@
             </div>
           </div>
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="/assets/form/sendMail.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
                   <label for="name">Seu nome</label>
@@ -411,7 +411,6 @@
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/typed.js/typed.min.js"></script>
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/js/main.js"></script>
 </body>
 </html>
