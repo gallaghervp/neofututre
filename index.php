@@ -344,7 +344,7 @@
         </div>
       </div>
     </section>
-    <section id="contact" class="contact">
+    <!-- <section id="contact" class="contact">
       <div class="container">
         <div class="section-title">
           <h2>Contato</h2>
@@ -400,7 +400,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
   </main>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
