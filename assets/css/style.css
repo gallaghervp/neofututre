@@ -499,6 +499,16 @@ section {
   padding-bottom: 10px;
 }
 
+.resume-item-year {
+  list-style: none;
+  padding-left: 0px !important;
+  margin: 0px;
+}
+
+.resume-item-year-line {
+  padding-bottom: 0px !important;
+}
+
 .resume .resume-item:last-child {
   padding-bottom: 0;
 }
